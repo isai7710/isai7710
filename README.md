@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isai7710
-- 👀 I’m interested in Soccer, Chess, Piano, and Cameras
+- 👀 I’m interested in Soccer, Chess, Piano, Cameras and all things Engineering
 - 🌱 Graduated with a B.S. in Mechanical Engineering from BYU
 
 <!---
